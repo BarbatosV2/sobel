@@ -41,7 +41,11 @@ The Sobel operator uses convolution with two 3x3 kernels (one for detecting hori
         
 # How to run
 ```
-python sobel_filter.py <your_image>
+python sobel.py <your_image>
+```
+
+```
+python sobel_kernal.py <your_image>
 ```
 # Results 
 **Sobel X**
