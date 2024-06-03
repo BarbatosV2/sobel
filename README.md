@@ -44,6 +44,11 @@ The Sobel operator uses convolution with two 3x3 kernels (one for detecting hori
 python sobel_kernal.py <your_image>
 ```
 # Results 
+
+**Original**
+
+![image](https://github.com/BarbatosV2/sobel/assets/63419320/88abafd0-881d-466c-9969-b12ac7d49d34)
+
 **Sobel X**
 
 ![sobel_x](https://github.com/BarbatosV2/sobel/assets/63419320/f2feeb97-0163-42e5-9678-d8f104a30e30)
