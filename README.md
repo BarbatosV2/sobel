@@ -38,6 +38,12 @@ The Sobel operator uses convolution with two 3x3 kernels (one for detecting hori
  0  0  0
 -1 -2 -1
 ```
+
+# Install Requirements
+
+```
+pip install -r requirements.txt
+```
         
 # How to run
 ```
